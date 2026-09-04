@@ -1,32 +1,74 @@
 # Aftab Hussain — Cybersecurity Portfolio
 
-A responsive React portfolio inspired by the visual idea of a digital investigation/case-file interface, but written from scratch.
+A modern, interactive cybersecurity portfolio built with React and Vite.
 
-## Run locally
+This portfolio showcases my cybersecurity interests, technical skills, projects, and background through a clean, responsive interface with subtle animations and a cyber-inspired visual style.
 
-```bash
+## 🌐 Live Website
+
+https://aftab-cyber-portfolio.vercel.app
+
+## 💻 Tech Stack
+
+- React
+- JavaScript
+- CSS
+- HTML
+- Vite
+
+## ✨ Features
+
+- Responsive portfolio design
+- Interactive user interface
+- Typing and text animations
+- Minimal UI animations
+- Cybersecurity-inspired visual design
+- Skills showcase
+- Projects showcase
+- Mobile-friendly layout
+
+## 🚀 Run Locally
+
+Clone the repository:
+
+git clone https://github.com/aaftabhussain/aftab-cyber-portfolio.git
+
+Navigate to the project:
+
+cd aftab-cyber-portfolio
+
+Install dependencies:
+
 npm install
+
+Start the development server:
+
 npm run dev
-```
 
 Then open the local Vite URL shown in the terminal.
 
-## Build
+## 🏗️ Build for Production
 
-```bash
 npm run build
-```
 
-## Before submitting
+The production files will be generated in the dist directory.
 
-Replace:
-- Sample project descriptions and GitHub links
-- Email address
-- LinkedIn URL
-- Skill percentages
-- About section details
-- Any placeholder content
+## 📌 Deployment
 
-## Deployment
+The project is deployed using Vercel.
 
-This Vite/React project can be deployed on Vercel, Netlify, or GitHub Pages.
+Live Portfolio:
+https://aftab-cyber-portfolio.vercel.app
+
+Source Code:
+https://github.com/aaftabhussain/aftab-cyber-portfolio
+
+## 👨‍💻 About
+
+I am Aftab Hussain, a BCA Cybersecurity student interested in cybersecurity, ethical hacking, networking, and security technologies.
+
+This portfolio represents my work, skills, projects, and learning journey in cybersecurity.
+
+---
+
+Built with React + Vite

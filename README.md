@@ -31,8 +31,7 @@ https://aftab-cyber-portfolio.vercel.app
 
 Clone the repository:
 
-git clone https://github.com/aaftabhussain/aftab-cyber-portfolio.git
-
+git clone https://github.com/aaftabhhussain/aftab-cyber-portfolio
 Navigate to the project:
 
 cd aftab-cyber-portfolio
@@ -61,7 +60,7 @@ Live Portfolio:
 https://aftab-cyber-portfolio.vercel.app
 
 Source Code:
-https://github.com/aaftabhussain/aftab-cyber-portfolio
+https://github.com/aaftabhhussain/aftab-cyber-portfolio
 
 ## 👨‍💻 About
 
